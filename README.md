@@ -2,6 +2,11 @@
 
 This simple python sript is designed to remove duplicates from a list of items
 
+<p align="center">
+  <img src="figures/Duplicate_remover.png" width="300px" />
+</div>
+<p align="center">Duplicate remover GUI</p>
+
 ## Requirements
 The required packages are:
 
