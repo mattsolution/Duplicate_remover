@@ -1,11 +1,13 @@
 # Duplicate_remover
 
-This simple python sript is designed to remove duplicates from a list of items
+This simple python sript is designed to remove duplicates from a list of items. Text input a list of items (new line separated) and remove the duplicates. A copy to clipboard button allows to directly copy the clean output.
 
 <p align="center">
   <img src="figures/Duplicate_remover.png" width="300px" />
 </div>
 <p align="center">Duplicate remover GUI</p>
+
+In the future I want to ad button selaction to decide the item separator which will probably be space, new line, tab and an input text cell for a custom separator 
 
 ## Requirements
 The required packages are:
